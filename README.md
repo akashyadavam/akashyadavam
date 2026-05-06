@@ -1,4 +1,4 @@
-# 💫 About Me:
+<!-- # 💫 About Me:
 
 ```yaml
 Name: Akash Yadav
@@ -73,4 +73,342 @@ I believe `Ctrl + C` and `Ctrl + V` are the real MVPs of coding 😄
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=akashyadavam\&icon=5\&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=akashyadavam\&icon=5\&color=6)](https://visitcount.itsvg.in) -->
+
+<!-- 
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Akash+Yadav;B.Tech+CSE+Student;DSA+Enthusiast+⚡;Full+Stack+Web+Developer+🚀;Future+Software+Engineer+💻" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=akashyadavam&label=Profile+Views&color=0ea5e9&style=for-the-badge" />
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="38%">
+
+<img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="100%" style="border-radius:20px;" />
+
+<br><br>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/akashyadav-dev)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:akashyadavam585ak@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge\&logo=vercel\&logoColor=white)](#)
+
+</div>
+
+</td>
+
+<td width="62%">
+
+# 👨‍💻 About Me
+
+🎓 B.Tech CSE student passionate about technology and software engineering.
+
+🚀 Currently focused on:
+
+* Data Structures & Algorithms
+* Full Stack Web Development
+* Open Source Contributions
+* Building scalable projects
+
+💡 Exploring modern technologies and improving problem-solving skills every day.
+
+🌱 Currently Learning:
+
+```yaml id="i9nn14"
+- Advanced DSA
+- MERN Stack
+- Backend Development
+- System Design Basics
+- Competitive Programming
+```
+
+🎯 2025 Goals:
+
+```yaml id="s4efht"
+- Solve 500+ DSA Problems
+- Build impactful projects
+- Contribute to Open Source
+- Become internship ready
+- Crack top product companies
+```
+
+⚡ Developer Mindset:
+
+```cpp id="wcm8b5"
+while(!success){
+    code();
+    learn();
+    build();
+    repeat();
+}
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,figma,linux" />
+
+</div>
+
+---
+
+# 🚀 Featured Interests
+
+<div align="center">
+
+| DSA | Full Stack | Open Source | Problem Solving |
+| --- | ---------- | ----------- | --------------- |
+| ⚡   | 🌐         | 🔥          | 🧠              |
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akashyadavam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashyadavam&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=akashyadavam&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=akashyadavam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+[![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akashyadavam\&theme=tokyo-night)](https://github.com/akashyadavam)
+
+---
+
+# 🔥 Current Focus
+
+```javascript id="2k0utk"
+const Akash = {
+    learning: ["DSA", "MERN Stack", "Backend"],
+    goals: ["Internships", "Open Source", "FAANG"],
+    hobbies: ["Coding", "Cricket", "Tech Exploration"],
+    mindset: "Consistency > Motivation"
+};
+```
+
+---
+
+# ✨ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+---
+
+<div align="center">
+
+### 💻 “First, solve the problem. Then, write the code.”
+
+⭐ From [akashyadavam](https://github.com/akashyadavam)
+
+</div> -->
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Akash+Yadav;B.Tech+CSE+Student;DSA+Enthusiast+⚡;Full+Stack+Web+Developer+🚀;Future+Software+Engineer+💻" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=akashyadavam&label=Profile+Views&color=0ea5e9&style=for-the-badge" />
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="38%">
+
+<img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="100%" style="border-radius:20px;" />
+
+<br><br>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/akashyadav-dev)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:akashyadavam585ak@gmail.com)
+
+</div>
+
+</td>
+
+<td width="62%">
+
+# 👨‍💻 About Me
+
+🎓 B.Tech CSE student passionate about technology and software engineering.
+
+🚀 Currently focused on:
+
+* Data Structures & Algorithms
+* Full Stack Web Development
+* Open Source Contributions
+* Building scalable projects
+
+💡 Exploring modern technologies and improving problem-solving skills every day.
+
+🌱 Currently Learning:
+
+```yaml id="u86h1n"
+- Advanced DSA
+- MERN Stack
+- Backend Development
+- System Design Basics
+- Competitive Programming
+```
+
+🎯 Goals:
+
+```yaml id="up6m10"
+- Solve 500+ DSA Problems
+- Build impactful projects
+- Contribute to Open Source
+- Become internship ready
+- Crack top product companies
+```
+
+⚡ Developer Mindset:
+
+```cpp id="s6c1zw"
+while(!success){
+    code();
+    learn();
+    build();
+    repeat();
+}
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,figma,linux" />
+
+</div>
+
+---
+
+# 🧠 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=LeetCode\&logoColor=white)](YOUR_LEETCODE_LINK)
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge\&logo=geeksforgeeks\&logoColor=white)](YOUR_GFG_LINK)
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge\&logo=codeforces\&logoColor=white)](YOUR_CODEFORCES_LINK)
+
+</div>
+
+---
+
+# 🚀 Featured Interests
+
+<div align="center">
+
+| DSA | Full Stack | Open Source | Problem Solving |
+| --- | ---------- | ----------- | --------------- |
+| ⚡   | 🌐         | 🔥          | 🧠              |
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akashyadavam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashyadavam&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=akashyadavam&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=akashyadavam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+[![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akashyadavam\&theme=tokyo-night)](https://github.com/akashyadavam)
+
+---
+
+# 🔥 Current Focus
+
+```javascript id="7kic5t"
+const Akash = {
+    learning: ["DSA", "MERN Stack", "Backend"],
+    goals: ["Internships", "Open Source", "FAANG"],
+    hobbies: ["Coding", "Cricket", "Tech Exploration"],
+    mindset: "Consistency > Motivation"
+};
+```
+
+---
+
+# ✨ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+---
+
+<div align="center">
+
+### 💻 “First, solve the problem. Then, write the code.”
+
+⭐ From [akashyadavam](https://github.com/akashyadavam)
+
+</div>
