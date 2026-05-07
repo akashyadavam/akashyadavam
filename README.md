@@ -515,7 +515,7 @@ const Akash = {
 
 # 📈 Contribution Graph
 
-[![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akashyadavam\&theme=tokyo-night)](https://github.com/akashyadavam)
+[![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akashyadavam&theme=tokyo-night)](https://github.com/akashyadavam)
 
 ---
 
