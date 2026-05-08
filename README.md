@@ -497,7 +497,7 @@ const Akash = {
 
 <br><br>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=akashyadavam&theme=tokyonight&hide_border=true"/>
+<img width="90%" src="https://streak-stats.demolab.com?user=akashyadavam&theme=tokyonight&hide_border=true&v=2"/>
 
 </div>
 
