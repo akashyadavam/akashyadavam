@@ -74,21 +74,23 @@
 
 ---
 
-```md
+
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=akashyadavam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=akashyadavam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashyadavam&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashyadavam&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=akashyadavam&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img width="90%" src="https://streak-stats.demolab.com?user=akashyadavam&theme=tokyonight&hide_border=true"/>
 
 </div>
-```
+
+
+
 
 
 ---
@@ -103,13 +105,12 @@
 
 ---
 
-# 📈 Contribution Graph
 
-```md
+
 # 📈 Contribution Graph
 
 [![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akashyadavam&theme=tokyo-night&cache_seconds=1800)](https://github.com/akashyadavam)
-```
+
 
 
 ---
